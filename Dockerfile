@@ -1,3 +1,3 @@
 FROM nginx
 
-ADD ./content//usr/share/nginx/html
+ADD ./friday.may6.repo/content//usr/share/nginx/html
